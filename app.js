@@ -1,3 +1,6 @@
+// Teste git
+// Vamos fazer o upload para o git agora.
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
