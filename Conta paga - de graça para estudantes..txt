@@ -1,0 +1,10 @@
+Caso você seja estudante em uma instituição de ensino, você pode aproveitar os benefícios de uma conta Pro do GitHub (conta paga), além de acesso gratuito a diversas ferramentas pagas de desenvolvimento de software, através da licença para estudantes do GitHub (a GitHub Student Developer Pack).
+
+Para obter essa licença, você precisará do seu e-mail institucional e do comprovante de matrícula. Depois, basta preencher o formulário disponível no site GitHub Education e aguardar a aprovação.
+
+Para mais informações, você pode acessar o site do GitHub Student Developer Pack.
+
+Formulario: https://education.github.com/discount_requests/application
+
++ Informações: 
+https://education.github.com/pack?ref=producthunt

@@ -1,0 +1,8 @@
+1 Criar conta
+2 Criar uma chave
+3 Comandos para o GIT
+git init
+git add .
+git commit -m "projeto inicial"
+git remote add origin git@github.com:SEU_USUARIO/SEU_REPOSITORIO
+git push origin main

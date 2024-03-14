@@ -1,0 +1,5 @@
+Se ja estiver conectado e tudo ok
+
+git add . < Inserir todos os dados
+git commit -m "Nova atualização" < Seguir para atualização com descrição
+git push < Enviar os dados para o servidor remoto.
