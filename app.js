@@ -5,7 +5,7 @@
 // Atualizando dados novamente
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 1000; // Atualizacao
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
